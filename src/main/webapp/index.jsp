@@ -1,7 +1,7 @@
 <%@include file="includes/header.jsp"%>
 <%@include file="includes/navbar.jsp"%>
 
-<h1>Listado Persona</h1>adsafasfsf
+<h1>Listado Persona</h1>
 <hr>
 
 <c:if test="${mensaje != null}">
